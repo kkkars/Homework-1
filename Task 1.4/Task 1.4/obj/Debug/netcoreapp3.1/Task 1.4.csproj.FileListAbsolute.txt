@@ -1,0 +1,13 @@
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\bin\Debug\netcoreapp3.1\Task 1.4.exe
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\bin\Debug\netcoreapp3.1\Task 1.4.deps.json
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\bin\Debug\netcoreapp3.1\Task 1.4.runtimeconfig.json
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\bin\Debug\netcoreapp3.1\Task 1.4.runtimeconfig.dev.json
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\bin\Debug\netcoreapp3.1\Task 1.4.dll
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\bin\Debug\netcoreapp3.1\Task 1.4.pdb
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.csprojAssemblyReference.cache
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.AssemblyInfoInputs.cache
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.AssemblyInfo.cs
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.csproj.CoreCompileInputs.cache
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.dll
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.pdb
+D:\PM TECH ACADEMY\homework1\Task 1.4\Task 1.4\obj\Debug\netcoreapp3.1\Task 1.4.genruntimeconfig.cache
